@@ -2,7 +2,7 @@
 
 Login analyzer for Linux servers
 
-## Languages
+## About 
 
 - [Русский](s/ru/readme.md)
 - [English](s/en/readme.md)
