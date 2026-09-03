@@ -9,7 +9,9 @@ curl -sSL https://raw.githubusercontent.com/chinp-tool/chinp/main/s/ru/s/install
 
 ## Использование
 
+```bash
 chinp <опции>
+```
 
 ## Описание
 
