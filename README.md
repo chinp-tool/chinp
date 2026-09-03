@@ -9,9 +9,14 @@ Login analyzer for Linux servers
 
 ## Installing latest version 
 
-```English version: 
-curl -sSL https://raw.githubusercontent.com/chinp-tool/chinp/main/s/en/s/install/version/1/install.sh | sudo bash```
+English version:
+```bash
+curl -sSL https://raw.githubusercontent.com/chinp-tool/chinp/main/s/en/s/install/version/1/install.sh | sudo bash
+```
 
-```Русская версия:
-curl -sSL https://raw.githubusercontent.com/chinp-tool/chinp/main/s/ru/s/install/version/1/install.sh | sudo bash```
+Русская версия:
+
+```bash
+curl -sSL https://raw.githubusercontent.com/chinp-tool/chinp/main/s/ru/s/install/version/1/install.sh | sudo bash
+```
 
