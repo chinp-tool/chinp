@@ -1,6 +1,6 @@
-# chinp
+# Checking inputs (chinp)
 
-Login analyzer for Linux servers
+Login analyzer for servers. Can be used to quickly check "your" servers
 
 ## About 
 
